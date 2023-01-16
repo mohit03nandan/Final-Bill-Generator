@@ -1,0 +1,16 @@
+.main{
+    height: 38rem ;
+    background-color: white ;
+    border-radius: 1rem;
+    margin-top: 2.7rem;
+}
+.cardBody{
+    padding-left: 3rem;
+    margin: 0.75rem;
+    color: #04285A;
+    font-size: 30px;
+}
+.hr{
+    background-color: #B7C3D7;
+    border: 2px solid black
+}

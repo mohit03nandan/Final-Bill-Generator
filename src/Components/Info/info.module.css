@@ -1,0 +1,28 @@
+.main{
+    /* height: 10rem; */
+    /* background-color: red; */
+    margin-top: 4rem;
+    width: 38rem;
+    margin-left: 4rem;
+}
+.container{
+    margin-top: 2.8rem;
+    height: 40rem;
+}
+.formgroup{
+    margin: 3rem;
+
+}
+.h1{
+    margin-left: 6rem;
+    color: 
+    #04285A;
+}
+.exampleInput{
+   font-size: 2rem;
+   margin-bottom: 0.5rem;
+   color: #04285A;
+}
+/* .formcontrol{
+    border-radius: .2rem;
+} */

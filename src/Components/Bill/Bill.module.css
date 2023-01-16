@@ -1,0 +1,36 @@
+.sidebar{
+    width: 345px;
+      height: 750px;
+       background-color:#5852ca;
+        margin: 1rem;
+         margin-left: 2rem;
+          border-radius: 1rem;
+}
+.btn{
+    display:block;
+     height: 50px;
+     width: 50px;
+      border-radius: 50%;
+       border: 2px solid rgb(94, 201, 186);
+       background-color: rgb(0, 0, 0);
+       
+}
+
+.h6{
+    color: #FFFFFF75;
+}
+
+.h5{
+    color: white;
+}
+.mains{
+    /* padding-top: 5rem; */
+    margin-top: 5rem;
+}
+.first{
+    display: flex;
+    margin-top: 4rem;
+}
+.second{
+    background-color: rgb(0, 255, 255);
+}

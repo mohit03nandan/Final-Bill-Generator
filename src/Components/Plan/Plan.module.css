@@ -1,0 +1,43 @@
+.main{
+    /* margin-top: 5rem; */
+    background-color: white;
+    margin-top: 0rem;
+    
+}
+.col4{
+    height: 10rem;
+    border:  2px solid  #B7C3D7 ;
+    width: 200px;
+     height: 250px ;
+     background-color:  #FFFFFF;
+      margin: 2rem;
+       border-radius: 1rem;
+}
+.col4:hover{
+    background-color: rgb(111, 207, 236);
+}
+/* .priceButton{
+    background: #8D3C41;
+} */
+.h4{
+    margin-top: 6rem;color: #001126;
+}
+.h6{
+    color: #929292;
+}
+.h1{
+    margin: 2rem;
+    color: #001126;
+}
+.h5{
+    margin: 1rem;
+    
+}
+.container{
+    height: 38rem;
+}
+.toggle{
+    background-color: #D1D3DE;
+    border-radius: 1rem;
+    padding-left: 8rem;
+}
