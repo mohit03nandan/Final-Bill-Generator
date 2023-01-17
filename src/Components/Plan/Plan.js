@@ -83,7 +83,7 @@ const Plan = (props) => {
                  <button
                   type="button"
                   class="btn btn-dark price-button "
-                style={{ background: "pink" , marginTop:"2rem" }}
+                style={{ background: "pink" , marginTop:"30px" }}
                 >
                   <i class="fa fa-credit-card-alt" style={{fontSize: "30px",color: "white" }}></i>
                 </button>
@@ -91,30 +91,30 @@ const Plan = (props) => {
                 <h6 className={styles.h6} >$9/{month}</h6>
              </div>
              <div class="col-4" className={styles.col4}  onClick={Planning2} >
-                 <div class="col-4 price" >
+             
                 <button
                   type="button"
                   class="btn btn-dark price-button"
-                  style={{ background: "#1F1D7F" , marginTop:"2rem" }}
+                  style={{ background: "#1F1D7F" , marginTop:"30px" }}
                 >
                   <i class="fa fa-database" style={{fontSize: "30px",color: "white"}}></i>
                 </button>
                 <h4 className={styles.h4}>Advanced</h4>
                 <h6   className={styles.h6}>$12/{month}</h6>
-              </div>
+              
              </div>
              <div class="col-4"  className={styles.col4}  onClick={Planning3} >
-                 <div class="col-4 price">
+                 
                 <button
                   type="button"
                   class="btn btn-dark price-button "
-                  style={{ background: "#8D3C41" , marginTop:"2rem" }}
+                  style={{ background: "#8D3C41" , marginTop:"30px" }}
                 >
                   <i class="fa fa-car" style={{fontSize: "30px",color: "white"}}></i>
                 </button>
                 <h4 className={styles.h4}>Pro</h4>
                 <h6  className={styles.h6}>$15/{month}</h6>
-                </div>
+               
                </div>
             </div>
             </div> 

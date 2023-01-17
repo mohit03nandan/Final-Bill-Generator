@@ -25,7 +25,7 @@ const Info = ({DataInfo,setDataInfo}) => {
     <div class="container" className={styles.container}  >
          <form  class="form" >
            <h1 class="h1" className={styles.h1}>Your Information</h1>
-           <div  class="main" className={styles.main} >
+           <div  class="main"  >
          <div class="form-group" className={styles.formgroup}>
            <label for="exampleInputEmail1" class="exampleInput" className={styles.exampleInput}>Name</label>
            <input type="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" value={DataInfo.name} placeholder="Enter name"  onChange={nameChange}/>

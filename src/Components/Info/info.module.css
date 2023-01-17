@@ -1,28 +1,19 @@
-.main{
-    /* height: 10rem; */
-    /* background-color: red; */
-    margin-top: 4rem;
-    width: 38rem;
-    margin-left: 4rem;
-}
+
 .container{
-    margin-top: 2.8rem;
-    height: 40rem;
+    margin-top: 40px;
+    height: 600px;
 }
 .formgroup{
-    margin: 3rem;
+    margin: 40px;
 
 }
 .h1{
-    margin-left: 6rem;
+    margin-left: 100px;
     color: 
     #04285A;
 }
 .exampleInput{
-   font-size: 2rem;
-   margin-bottom: 0.5rem;
+   font-size: 40px;
+   margin-bottom: 5px;
    color: #04285A;
 }
-/* .formcontrol{
-    border-radius: .2rem;
-} */

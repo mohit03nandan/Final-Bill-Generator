@@ -12,8 +12,8 @@ const Summary = (props) => {
 
   return (
     <div  className={styles.main} >
-      <h1 class="summary-h1" style={{marginLeft: "3rem",marginTop:"1rem"}}>Summary</h1>
-          <div class="main-card" style={{marginTop: "1rem"}}>
+      <h1 class="summary-h1" style={{marginLeft: "30px",marginTop:"10px"}}>Summary</h1>
+          <div class="main-card" style={{marginTop: "10px"}}>
             <div class="card">
               <div class="card-body" className={styles.cardBody} >Name : {Name}</div>
             </div>

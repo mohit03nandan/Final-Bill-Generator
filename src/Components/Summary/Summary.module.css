@@ -1,12 +1,12 @@
 .main{
-    height: 38rem ;
+    height: 597px ;
     background-color: white ;
-    border-radius: 1rem;
-    margin-top: 2.7rem;
+    border-radius: 20px;
+    margin-top: 40px;
 }
 .cardBody{
-    padding-left: 3rem;
-    margin: 0.75rem;
+    padding-left: 40px;
+    margin: 10px;
     color: #04285A;
     font-size: 30px;
 }
